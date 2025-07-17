@@ -1,0 +1,21 @@
+{
+  "name": "carrinho-compras-shopee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrikMarques/carrinho-compras-shopee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrikMarques/carrinho-compras-shopee/issues"
+  },
+  "homepage": "https://github.com/PatrikMarques/carrinho-compras-shopee#readme",
+  "description": ""
+}
